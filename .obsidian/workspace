@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "70892811c3ed3fac",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c47d770cdad783",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "테스트/테스트.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b944970107d1d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "0abf33efe10aa25b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50ac749a8169a603",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "59d2453beecb43d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03133b19100031ed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a377757c5663da33",
+    "type": "split",
+    "children": [
+      {
+        "id": "fda77c7499ab49a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3607617cbe9155f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "테스트/테스트.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1efedfe2e23b65b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "테스트/테스트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60d051f9b52c14a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f65219891e9e438",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "테스트/테스트.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e1c47d770cdad783",
+  "lastOpenFiles": [
+    "일정/일정.md",
+    "테스트/테스트.md",
+    "무제노트.md",
+    "Pasted image 20220928100236.png.md",
+    "Pasted image 20220928100203.png",
+    "Pasted image 20220928100236.png",
+    "Pasted image 20220928100231.png",
+    "Pasted image 20220928100221.png",
+    "테스트.md"
+  ]
+}
